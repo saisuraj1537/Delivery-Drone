@@ -1,1 +1,3 @@
 # Delivery-Drone
+
+When a person orders medicine through the app, a fully autonomous drone is dispatched to the nearest pharmacy. Upon arrival, the pharmacy loads the medicine onto the drone autonomously. The drone then navigates to the person's location using GPS coordinates provided by the app. Upon arrival, the person verifies their identity using an OTP provided through the app. Once verified, the drone autonomously drops off the medicine. After delivery, the drone autonomously returns to its base location. This fully autonomous process ensures swift and secure delivery of medicine directly to the person's doorstep.
